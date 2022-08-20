@@ -12,7 +12,7 @@
   <img align="center" alt="Logo Leandro JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/javascript/javascript-original.svg">
   <img align="center" alt="Logo Leandro Nodejs" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/nodejs/nodejs-original.svg">
 
-  <img align="right" alt="Kirby Gif" height="150" style="border-radius:50px;" src="https://c.tenor.com/O5FGRwFSbBsAAAAi/kirby-rainbow.gif">
+  <img align="right" alt="Kirby Gif" height="150" style="border-radius:50px;" src="https://c.tenor.com/L4TD4MWFy40AAAAj/kirby.gif">
 </div>
 <hr>
 
